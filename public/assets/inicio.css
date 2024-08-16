@@ -1,0 +1,23 @@
+.imagen1, .imagen1-tarjeta{
+    width: 100%;
+}
+.imagen2{
+    background-size: cover;
+    background-position: center;
+}
+
+.fondo1{
+    background-image:url('img/tarjetas/2.png');
+}
+.fondo2{
+    background-image:url('img/tarjetas/4.png');
+}
+.fondo3{
+    background-image:url('img/tarjetas/6.png');
+}
+.fondo4{
+    background-image:url('img/tarjetas/8.png');
+}
+.fondo5{
+    background-image:url('img/tarjetas/10.png');
+}
